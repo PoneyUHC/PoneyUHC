@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RobertL31
+- 👋 Hi, I’m @PoneyUHC
 - 👀 I'm a french PhD student interested in almost every computer science field, and actually working mostly on video games and artificial intelligence and cybersecurity.
-- 🌱 Currently, I am trying to find some good game ideas, and I study a bit about the linux kernel.
+- 🌱 Currently, I am trying to find some good game ideas, and I study a bit about the linux kernel, and graphic programming through OpenGL
 - 📫 You can email me at com_lor@laposte.net, feel free to ping me !
 
 <!---
